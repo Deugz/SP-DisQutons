@@ -59,23 +59,23 @@ html_static_path = ['_static']
 html_theme_options = {
     "external_links": [
         {
-            "url": "https://deugz.github.io/jb-SDG/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 🧡 L'asso DisQutons",
+            "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Asso.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp ✨ L'asso",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/SP-ZAP/build/html/index.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 🧡 Missions des bénévoles",
+            "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 📰 Fonctionnement bénévole",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-journalisme/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 📰 Fonctionnement des bénévoles",
+            "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Missions.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp  Missions des bénévoles",
             "attributes": {"target": "_blank"},
         },
         {
-            "url": "https://deugz.github.io/nb-politique/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp ✊ Nous rejoindre",
+            "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Rejoindre.html",
+            "name": "&nbsp &nbsp &nbsp 🧡 Nous rejoindre",
             "attributes": {"target": "_blank"},
         },
     ],

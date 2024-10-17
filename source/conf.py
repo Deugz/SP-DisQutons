@@ -115,7 +115,7 @@ html_theme_options = {
 }
 
 
-html_css_files = ["css/custom_style.css"]
+html_css_files = ["css/custom_style.css", "css/slider.css"]
 html_js_files = ["_static/assets/scripts/slider-script.js"]
 
     

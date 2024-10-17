@@ -1,12 +1,77 @@
-# ✨ **L'association DisQutons**
+---
+title: Encyclopedia 3.A
+myst:
+  html_meta:
+    "description lang=fr": |
+      Top-level documentation for the Encyclopedia 3.A project.
+html_theme.sidebar_secondary.remove: true
+---
+
+# ✨ **L'association**
+
+***
+
+<br>
+<br>
 
 
+::::{grid} 3
 
-- Présenter l’association disQutons
-- Expliquer le positionnement politique de l’association
+:::{grid-item}
+:columns: 7
 
+> Présentation de ce qu'on va trouver dans la page
+
+
+:::
+
+
+:::{grid-item}
+:columns: 5
+
+<div id="div-colour"> 
+    
+<strong>Objectifs Pédagogiques</strong>
+
+
+<li>Présenter l’association disQutons</li>    
+<li>Identifier les documents importants</li>    
+<li>Expliquer le positionnement politique de l’association </li>
+
+</div>    
+
+<br>
+
+🕑 Temps de lecture: 10 - 15 min <br> 
+✍ Mis a jour: 17/10/2024  
+    
+:::
+    
+::::
+      
+    
 
 <h2><strong> 💫 <u> Présentation Générale</u></strong></h2>
+
+::::{grid} 3
+
+:::{grid-item}
+:columns: 6
+
+Présenter les missions
+
+:::
+
+:::{grid-item}
+:columns: 5
+
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+<dotlottie-player src="https://lottie.host/666865ab-bc1d-4ffc-b37f-24d32435cbe4/sesrzObgMw.json" background="transparent" speed="1" style="width: 100%; height: auto; display: block; margin: auto;" loop autoplay></dotlottie-player>
+
+:::
+
+::::
+
 
 <h3> 📂 <strong>Documents Importants </strong> </h3>
 

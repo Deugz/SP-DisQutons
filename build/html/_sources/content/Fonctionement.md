@@ -56,7 +56,7 @@ html_theme.sidebar_secondary.remove: true
 
 <div id="slider-container">
 <div id="slider">
-<img class="selected" src="_static/Photos/Slider/Journee-equipe.jpg">
+<img class="selected" src="../_static/Photos/Slider/Journee-equipe.jpg">
 <img src="../_static/Photos/Slider/Barbecue-benevole-2.jpg">
 <img src="../_static/Photos/Slider/Journee-benevoles-1.jpg">
 <img src="../_static/Photos/Slider/Journee-benevoles-3.jpg">

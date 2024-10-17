@@ -1,5 +1,3 @@
-# 
-
 ---
 title: Encyclopedia 3.A
 myst:

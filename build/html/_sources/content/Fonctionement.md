@@ -54,6 +54,47 @@ html_theme.sidebar_secondary.remove: true
 <h2><strong> 💫 <u> Les Moments Communs</u></strong></h2>
 
 
+<div id="slider-container">
+<div id="slider">
+<img class="selected" src="_static/Photos/Slider/Journee-equipe.jpg">
+<img src="_static/Photos/Slider/Barbecue-benevole-2.jpg">
+<img src="_static/Photos/Slider/Journee-benevoles-1.jpg">
+<img src="_static/Photos/Slider/Journee-benevoles-3.jpg">
+<img src="_static/Photos/Slider/Pleiniere-ville-non-sexiste.jpg">
+<img src="_static/Photos/Slider/Journee-Asso-2023-03-19.jpeg">
+</div>
+</div>
+
+
+<!-- partial -->
+<script  src="_static/assets/scripts/slider-script.js"></script>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 ```{note}
 
 - Insérer slider avec les meilleurs photos

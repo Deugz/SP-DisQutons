@@ -1,0 +1,59 @@
+:root {
+    
+    --primary-color: #000000; /* Couleur principale noir*/
+    --secondary-color: #9B3086; /* Couleur secondaire magenta*/
+    --tertiary-color: #CC8CB8; /* Couleur secondaire rose*/
+    --text-color: #333333; /* Couleur du texte */
+}
+
+
+h1 {
+    font-style: bold !important;
+    margin-top: 70px !important;
+    margin-bottom:70px !important;
+    color: var(--primary-color) !important;
+    text-align: center !important ;
+    font-size: 4.4em !important; 
+}
+
+h2 {
+
+    font-style: bold;
+    margin-top: 70px !important;
+    margin-bottom:70px !important;
+    color: var(--secondary-color) !important;
+    font-size: 2.8em !important;
+}
+
+h3 {
+    color: var(--tertiary-color) !important; /* Utilise la variable de couleur */
+    margin-top:70px !important;
+    margin-bottom:50px !important;
+    font-size: 1.8em !important;
+    margin-left: 70px !important;
+}
+
+.p-emphase {
+    font-size:1.8em;
+    padding:10px;
+    text-align:center;
+}
+
+#div-colour
+
+{
+background-color: #FFF8E7;
+padding: 20px;
+border-radius: 5px;
+}
+
+.banner-image {
+    position: absolute;  /* Positionne l'image de manière absolue par rapport à son premier parent positionné */
+    top: 30px;           /* Place la bannière tout en haut */
+    left: 0;             /* L'aligne à gauche de la fenêtre */
+    width: 100vw;        /* S'assure que l'image prend 100% de la largeur de la fenêtre */
+    height: auto;        /* Garde les proportions de l'image */
+    z-index: 1000;       /* S'assure que l'image est au-dessus du contenu */
+    margin: 0;
+    padding: 0;
+}

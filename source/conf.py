@@ -16,7 +16,7 @@ release = '0.0.1'
 
 comments_config = {
    "utterances": {
-      "repo": "https://github.com/Deugz/Encyclopedia-Home",
+      "repo": "https://github.com/Deugz/SP-DisQutons",
       "optional": "config",
    }
 }
@@ -52,67 +52,61 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'pydata_sphinx_theme'
-html_logo = "_static/Logo/Encyclopedia-logo.png"
-html_favicon = "_static/Logo/Encyclopedia-logo.png"
+html_logo = "_static/Logos/Logo.png"
+html_favicon = "_static/Logos/Q-logo-capture.png"
 html_static_path = ['_static']
 
 html_theme_options = {
     "external_links": [
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Asso.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp ✨ L'asso",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp ✨ L'Association",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 📰 Fonctionnement bénévole",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Fonctionnement bénévole",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Missions.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp  Missions des bénévoles",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 💪 Missions des bénévoles",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Rejoindre.html",
-            "name": "&nbsp &nbsp &nbsp 🧡 Nous rejoindre",
+            "name": "&nbsp &nbsp &nbsp &nbsp 🧡 Nous rejoindre",
             "attributes": {"target": "_blank"},
         },
     ],
     "header_links_before_dropdown": 10,    
     "icon_links": [
         {
+            "name": "Discord",
+            "url": "https://github.com/Deugz/Encyclopedia-Home",
+            "icon": "fa-brands fa-discord",
+        },
+        {
+            "name": "Drive",
+            "url": "https://github.com/Deugz/Encyclopedia-Home",
+            "icon": "fa-brands fa-google-drive",
+        },
+        {
+            "name": "Calendar",
+            "url": "https://github.com/Deugz/Encyclopedia-Home",
+            "icon": "fa-regular fa-calendar-days",
+        },
+        {
             "name": "GitHub",
             "url": "https://github.com/Deugz/Encyclopedia-Home",
             "icon": "fa-brands fa-github",
         },
-        {
-            "name": "Home",
-            "url": "https://deugz.github.io/Encyclopedia-Home/build/html/index.html",
-            "icon": "fa-solid fa-house",
-        },
-        {
-            "name": "Profile",
-            "url": "https://deugz.github.io/nb-profile/_build/html/intro.html",
-            "icon": "fa-solid fa-user",
-        },
-        {
-            "name": "Blog",
-            "url": "https://deugz.github.io/ab-blog/_website/index.html",
-            "icon": "fa-solid fa-blog",
-        },
-        {
-            "name": "Tools",
-            "url": "https://deugz.github.io/nb-tools/_build/html/intro.html",
-            "icon": "fa-solid fa-screwdriver-wrench",
-        },
     ],
     
-
     "logo": {
-        "text": " &nbsp La Société &nbsp ",
+        "text": "",
         "image_dark": "_static/Logo/logo_SFTP.png",
-        "alt_text": " &nbsp V. Deguin &nbsp &nbsp",
+        "alt_text": "",
     },
     
     
@@ -121,7 +115,7 @@ html_theme_options = {
 }
 
 
-html_css_files = ["css/custom_style.css", "css/Cube.css", "css/coffee_cup.css", "css/kittons.css", "css/style_book_shell.css", "css/style_flipping_card.css", "css/style_wheel.css"]
-html_js_files = ["assets/script/kittons.js", "assets/script/script_flipping_card.js", "assets/script/script_wheel.js", "assets/script/scriptvideo.js", "assets/script/slideshow.js"]
+html_css_files = ["css/custom_style.css"]
+html_js_files = []
 
     

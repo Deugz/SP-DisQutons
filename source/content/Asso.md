@@ -58,7 +58,7 @@ html_theme.sidebar_secondary.remove: true
 :::{grid-item}
 :columns: 6
 
-Présenter les missions
+<p class="p-emphase">L’association promeut l’Éducation Complète à la Sexualité (ECS) à destination des enfants, adolescents et personnes en contact avec les jeunes (parents, grands-parents, animateur·ices, enseignant·es, etc.). </p>
 
 :::
 
@@ -73,16 +73,55 @@ Présenter les missions
 ::::
 
 
-<h3> 📂 <strong>Documents Importants </strong> </h3>
+<h3> 📂 <strong> Documents Associatifs </strong> </h3>
 
-```{note}
 
-Insérer ici les documents importants
-- Quels documents sont importants?
+::::{grid} 3
 
+:::{grid-item-card}
+:link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
+:class-header: bg-light
+:columns: 3
+**Les statuts**
+^^^
+
+```{image} ../_static/icons/pdf2-svgrepo-com.svg
 
 
 ```
+
+:::
+
+:::{grid-item-card}
+:link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
+:class-header: bg-light
+:columns: 3
+**Règlement intérieur**
+^^^
+
+```{image} ../_static/icons/pdf2-svgrepo-com.svg
+
+
+```
+
+:::
+
+:::{grid-item-card}
+:link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
+:class-header: bg-light
+:columns: 3
+**Livret d'acceuil**
+^^^
+
+```{image} ../_static/icons/pdf2-svgrepo-com.svg
+
+
+```
+
+:::
+
+::::
+
 
 <h2><strong> ✊ <u> Nos Positions Politiques </u></strong></h2>
 

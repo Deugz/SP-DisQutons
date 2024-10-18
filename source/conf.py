@@ -65,17 +65,17 @@ html_theme_options = {
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 🔧 Fonctionnement",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🔧 Fonctionnement",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Missions.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 💪 Missions",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 💪 Missions",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Rejoindre.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 🧡 Nous rejoindre",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 🧡 Nous rejoindre",
             "attributes": {"target": "_blank"},
         },
     ],
@@ -92,10 +92,15 @@ html_theme_options = {
             "icon": "fa-brands fa-google-drive",
         },
         {
-            "name": "Calendar",
+            "name": "Calendrier",
             "url": "https://github.com/Deugz/Encyclopedia-Home",
             "icon": "fa-regular fa-calendar-days",
         },
+        {
+            "name": "Site web",
+            "url": "https://www.disqutons.fr/",
+            "icon": "fa-solid fa-globe",
+        },        
         {
             "name": "GitHub",
             "url": "https://github.com/Deugz/Encyclopedia-Home",

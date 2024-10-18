@@ -7,7 +7,7 @@ myst:
 html_theme.sidebar_secondary.remove: true
 ---
 
-# ⚙ **Fonctionnement Bénévole**
+# 🔧 **Fonctionnement Bénévole**
 
 ***
 
@@ -57,7 +57,6 @@ html_theme.sidebar_secondary.remove: true
 <div id="slider-container">
 <div id="slider">
 <img class="selected" src="../_static/Photos/Slider/Journee-equipe.jpg">
-<img src="../_static/Photos/Slider/Barbecue-benevole-2.jpg">
 <img src="../_static/Photos/Slider/Journee-benevoles-1.jpg">
 <img src="../_static/Photos/Slider/Journee-benevoles-3.jpg">
 <img src="../_static/Photos/Slider/Pleiniere-ville-non-sexiste.jpg">
@@ -67,7 +66,7 @@ html_theme.sidebar_secondary.remove: true
 
 
 <!-- partial -->
-<script  src="_static/assets/scripts/slider-script.js"></script>
+<script  src="../_static/assets/scripts/slider-script.js"></script>
 
 <br>
 <br>

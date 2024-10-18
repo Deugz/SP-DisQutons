@@ -53,12 +53,14 @@ html_theme.sidebar_secondary.remove: true
 
 <h2><strong> 💫 <u> Présentation Générale</u></strong></h2>
 
+<p class="p-emphase"> <em>"L’association promeut l’Éducation Complète à la Sexualité (ECS) à destination des enfants, adolescents et personnes en contact avec les jeunes. </em></p> 
+
+
+
 ::::{grid} 3
 
 :::{grid-item}
 :columns: 6
-
-<p class="p-emphase">L’association promeut l’Éducation Complète à la Sexualité (ECS) à destination des enfants, adolescents et personnes en contact avec les jeunes (parents, grands-parents, animateur·ices, enseignant·es, etc.). </p>
 
 :::
 
@@ -81,12 +83,13 @@ html_theme.sidebar_secondary.remove: true
 :::{grid-item-card}
 :link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
 :class-header: bg-light
-:columns: 3
+:columns: 4
 **Les statuts**
 ^^^
 
 ```{image} ../_static/icons/pdf2-svgrepo-com.svg
-
+:width: 60%
+:align: center
 
 ```
 
@@ -95,12 +98,13 @@ html_theme.sidebar_secondary.remove: true
 :::{grid-item-card}
 :link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
 :class-header: bg-light
-:columns: 3
+:columns: 4
 **Règlement intérieur**
 ^^^
 
 ```{image} ../_static/icons/pdf2-svgrepo-com.svg
-
+:width: 60%
+:align: center
 
 ```
 
@@ -109,12 +113,13 @@ html_theme.sidebar_secondary.remove: true
 :::{grid-item-card}
 :link: https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html
 :class-header: bg-light
-:columns: 3
+:columns: 4
 **Livret d'acceuil**
 ^^^
 
 ```{image} ../_static/icons/pdf2-svgrepo-com.svg
-
+:width: 60%
+:align: center
 
 ```
 

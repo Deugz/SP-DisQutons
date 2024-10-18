@@ -121,7 +121,7 @@ content/index
 
 ::::
 
-<h3> ⚙ <strong>Fonctionnement bénévole</strong> </h3>
+<h3> 🔧 <strong>Fonctionnement bénévole</strong> </h3>
 
 ::::{grid} 2
 

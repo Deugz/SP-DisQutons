@@ -60,22 +60,22 @@ html_theme_options = {
     "external_links": [
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Asso.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp ✨ L'Association",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ✨ L'Association",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Fonctionement.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp ⚙ Fonctionnement bénévole",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 🔧 Fonctionnement",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Missions.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 💪 Missions des bénévoles",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 💪 Missions",
             "attributes": {"target": "_blank"},
         },
         {
             "url": "https://deugz.github.io/SP-DisQutons/build/html/content/Rejoindre.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 🧡 Nous rejoindre",
+            "name": "&nbsp &nbsp &nbsp &nbsp &nbsp 🧡 Nous rejoindre",
             "attributes": {"target": "_blank"},
         },
     ],
@@ -115,7 +115,7 @@ html_theme_options = {
 }
 
 
-html_css_files = ["css/custom_style.css", "css/slider.css"]
+html_css_files = ["css/custom_style.css", "css/slider.css", 'https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&family=Montserrat:wght@400;700&display=swap',]
 html_js_files = ["_static/assets/scripts/slider-script.js"]
 
     

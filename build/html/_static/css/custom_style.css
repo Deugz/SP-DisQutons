@@ -6,8 +6,12 @@
     --text-color: #333333; /* Couleur du texte */
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 
 h1 {
+    font-family: 'Fredoka', sans-serif;
     font-style: bold !important;
     margin-top: 70px !important;
     margin-bottom:70px !important;
@@ -17,7 +21,7 @@ h1 {
 }
 
 h2 {
-
+    font-family: 'Fredoka', sans-serif;
     font-style: bold;
     margin-top: 70px !important;
     margin-bottom:70px !important;
@@ -26,6 +30,7 @@ h2 {
 }
 
 h3 {
+    font-family: 'Fredoka', sans-serif;
     color: var(--tertiary-color) !important; /* Utilise la variable de couleur */
     margin-top:70px !important;
     margin-bottom:50px !important;

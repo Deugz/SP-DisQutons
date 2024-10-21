@@ -120,7 +120,7 @@ html_theme_options = {
 }
 
 
-html_css_files = ["css/custom_style.css", "css/slider.css", 'https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&family=Montserrat:wght@400;700&display=swap',]
+html_css_files = ["css/custom_style.css", "css/slider.css", "css/flash-card.css",'https://fonts.googleapis.com/css2?family=Fredoka:wght@400;700&family=Montserrat:wght@400;700&display=swap',]
 html_js_files = ["_static/assets/scripts/slider-script.js"]
 
     

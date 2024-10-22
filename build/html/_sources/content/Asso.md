@@ -20,7 +20,7 @@ html_theme.sidebar_secondary.remove: true
 :::{grid-item}
 :columns: 7
 
-> Présentation de ce qu'on va trouver dans la page
+> Ce premier module vous présentera notre association. Vous y découvrirez notre mission principale ainsi que nos différentes actions de sensibilisation. Vous aurez ensuite l’occasion de tester vos connaissances sur l’éducation sexuelle à travers un questionnaire interactif répertoriant les principales idées reçues sur le sujet. Nous vous présenterons également les documents importants à lire avant de rejoindre l’association. Enfin, et non des moindres, nous vous exposerons nos positionnements politiques, que nous espérons alignés avec les vôtres.
 
 
 :::
@@ -58,37 +58,7 @@ html_theme.sidebar_secondary.remove: true
 <br>
 <br>
 
-:::::{dropdown} Les idées reçues sur l’éducation sexuelle
-
-::::{grid} 2
-
-:::{grid-item}
-:columns: 9
-
-- Lors des séances d’éducation sexuelle, on ne parle que de sexe → **Faux** !
-- On apprend aux jeunes et aux enfants à se masturber → **Faux** !
-- Les cours d’éducation à la vie affective et sexuelle incitent les jeunes à avoir des rapports de plus en plus tôt → **Faux** !
-- Il n’y a pas besoin d’éducation à la sexualité avant la puberté → **Faux** !
-- Parler de vie sexuelle et affective, c’est du ressort de la famille, pas de l’école → **Faux** !
-- On apprend aux garçons à devenir des filles et vice-versa → **Faux** !
-- Parler de sexualité aux enfants est choquant pour eux·elles → **Faux** !
-- L’éducation à la sexualité, c’est que pour les cours de SVT → **Faux** !
-
-:::
-
-:::{grid-item-card}
-:columns: 3
-
-**Document Source**
-^^^
-
-
-
-:::
-
-::::
-
-:::::
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Quiz minimaliste" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/67161a0f4cbf5047c5c355cf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 <br>
 <br>
